@@ -1,27 +1,2 @@
-<<<<<<< HEAD
-New one.1
-
-sd
-==df=====
-Helldfo Git
-Seconddf try
-Third trydf
-Fourth tdfry
->>>>>>> pardfent of b9fbf66 (Third Commit)
-
-df
-df
-df
-dfd
-dfd
-fdfd
-fd
-fd
-fdf
-df
-d
-fdf
-d
-f
-d
-f
+new Branch, ratherly called - "dev";
+21.02.2021. Testing git terminal.
